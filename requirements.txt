@@ -1,0 +1,4 @@
+flask==2.1.1
+openai==1.1.1
+python-dotenv==0.19.3
+packaging==22.0
